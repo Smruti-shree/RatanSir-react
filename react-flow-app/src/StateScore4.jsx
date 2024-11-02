@@ -5,6 +5,7 @@ function StateScore4()
 
   return(
     <>
+    <h1>we are doing a modification</h1>
     <h1>Number of Apples:{apples}</h1>
     {apples === 0 ?
       (<p>No apple left?</p>
